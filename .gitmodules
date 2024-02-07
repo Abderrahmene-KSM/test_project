@@ -1,0 +1,6 @@
+[submodule "grpc_server"]
+	path = grpc_server
+	url = git@github.com:skourta/tiramisu-dataset-grpc-server.git
+[submodule "tiramisu-dataset-grpc-server"]
+	path = tiramisu-dataset-grpc-server
+	url = https://github.com/skourta/tiramisu-dataset-grpc-server.git
